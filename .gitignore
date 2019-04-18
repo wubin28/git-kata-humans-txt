@@ -31,3 +31,6 @@ HELP.md
 ### backup files
 *~
 
+
+### log files
+*.log
